@@ -1,6 +1,6 @@
 ## Node+RabbitMQ - Publisher and Consumer
 
-[![N|Solid](https://raw.githubusercontent.com/mribeirogabriel/noderabbitmq/master/misc/image.png)](https://raw.githubusercontent.com/mribeirogabriel/noderabbitmq)
+[![N|Solid](https://raw.githubusercontent.com/mribeirogabriel/noderabbitmq/master/misc/image.png)](https://github.com/mribeirogabriel/noderabbitmq)
 
 [RabbitMQ](https://www.rabbitmq.com/) is a open source message-queueing software also known as a message broker or queue manager that uses AMQP(Advanced Message Queuing Protocol) to exchange menssages.
 
