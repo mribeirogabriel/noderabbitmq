@@ -8,11 +8,11 @@
 For this lab I recommends run RabbitMQ server in a container using [Docker](https://docs.docker.com/get-started/overview/).
 
 #### Installing Docker
-```bash
+```curl
 curl -fsSL https://get.docker.com -o get-docker.sh && sh get-docker.sh
 ```
 #### Running RabbitMQ Container
-```bash
+```docker
 sudo docker run -d --hostname my-rabbitmq --name container-rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3-management
 ```
 
